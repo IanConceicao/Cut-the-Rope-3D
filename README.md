@@ -2,6 +2,8 @@
 
 We designed a three-dimensional take on the original IOS game Cut the Rope.
 
+Play it at: https://cuttherope3d.netlify.app/
+
 <img  height = "400" src="assets/readme/banner.jpg">
 
 ### Table of contents
@@ -20,19 +22,16 @@ We designed a three-dimensional take on the original IOS game Cut the Rope.
 
 ##### Ian Conceicao
 
-- UID: 505153981
 - Email: IanCon234@gmail.com
 - Github: IanConceicao
 
 ##### Bryan Wong
 
-- UID: 205164976
 - Email: brwong00@gmail.com
 - Github: brwong00
 
 ##### Ruben Green
 
-- UID: 505411174
 - Email: ragreen@g.ucla.edu
 - Github: EvergreenGames
 
@@ -40,7 +39,13 @@ We designed a three-dimensional take on the original IOS game Cut the Rope.
 
 ---
 
-To play the game on your own device, simply run `python server.py` in this directory and open `localhost:8000` on a browser. Have fun!
+**Online:**
+
+https://cuttherope3d.netlify.app/
+
+**Locally:**
+
+To play the game on your own device, simply run `python server.py` and open `localhost:8000` on a browser. Have fun!
 
 ### Introduction <a name="introduction"/>
 
