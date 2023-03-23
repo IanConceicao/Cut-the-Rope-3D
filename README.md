@@ -2,7 +2,7 @@
 
 We designed a three-dimensional take on the original IOS game Cut the Rope.
 
-Play it at: https://cuttherope3d.netlify.app/
+Play it at: https://cuttherope3d.ianconceicao.com/
 
 <img  height = "400" src="assets/readme/banner.jpg">
 
@@ -41,7 +41,7 @@ Play it at: https://cuttherope3d.netlify.app/
 
 **Online:**
 
-https://cuttherope3d.netlify.app/
+https://cuttherope3d.ianconceicao.com/
 
 **Locally:**
 
